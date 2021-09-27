@@ -1,0 +1,41 @@
+body { 
+       background-color: #FFAE23;
+ } 
+
+
+a { 
+	color: #FFFFaa;
+ }
+
+a:hover { 
+
+	color: #72d3fe;
+ }
+
+.sukuna{ 
+
+	width: 15%;
+	height: 20%;
+	border: solid 80px #FF0000;
+ }
+
+.bear { 
+	
+	width: 50%;
+        height: 10%;
+        border: solid 200px #00FF00;
+
+}
+
+.passion { 
+
+	color: #ddd618;
+           
+}
+
+.red {
+       color: #ff0000;
+ } 
+.center { 
+       text-align: center;
+ }
